@@ -1,0 +1,22 @@
+header {
+ display: none;
+}
+footer {
+ display: none;
+}
+
+img {
+ display: none;
+}
+
+h1 {
+ display: none;
+}
+
+.col-md-12 {
+ display: none;
+}
+ 
+div:empty{
+ display:none;
+}
